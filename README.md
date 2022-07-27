@@ -1,10 +1,16 @@
 # Hi 👋, I'm Muhammad Kashif Shamim
- A passionate software developer with a knack for trying out things in a lot of different paradigms. Started out as a Hybrid Mobile Developer using Phonegap and Ionic, slowly moved towards native iOS and Android. Currently working as a React Native Dev with a focus on building full stack apps with backend and frontend.
+ A passionate software engineer with a knack for trying out things in a lot of different paradigms. Started out as a Hybrid Mobile Developer using Phonegap and Ionic, slowly moved towards native iOS, Android and later on React Native.  Currently working as a Solutions Architect with distributed systems on either Microservices or serverless architecture.
+ <br>
+ * Currently learning Golang and Lua
+ * Recently got introduced to Neovim and currently trying to improve my workflow by building a personal development environment.
+ * Like building or modding mechanical keyboards 
 <br>
 <br>
-![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadKashifShamim&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadKashifShamim&show_icons=true&theme=tokyonight)
 <br>
-
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifShamim&layout=compact&theme=tokyonight)
+<br>
 ## Blog posts:
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadkashifshamim/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadkashifshamim/0" alt="Recent Article 0"></a>
