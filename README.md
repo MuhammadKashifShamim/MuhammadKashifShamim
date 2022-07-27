@@ -5,11 +5,10 @@
  * Recently got introduced to Neovim and currently trying to improve my workflow by building a personal development environment.
  * Like building or modding mechanical keyboards 
 <br>
-<br>
 ## Github Stats:
+
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadKashifShamim&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Kashif Shamim's GitHub Stats" />
-<br>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifShamim&theme=tokyonight&layout=compact" />
 <br>
