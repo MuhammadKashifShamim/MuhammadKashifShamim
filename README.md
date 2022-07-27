@@ -6,11 +6,14 @@
  * Like building or modding mechanical keyboards 
 <br>
 <br>
-![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadKashifShamim&show_icons=true&theme=tokyonight)
+## Github Stats:
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadKashifShamim&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Kashif Shamim's GitHub Stats" />
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifShamim&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifShamim&theme=tokyonight&layout=compact" />
 <br>
+
 ## Blog posts:
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadkashifshamim/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhammadkashifshamim/0" alt="Recent Article 0"></a>
