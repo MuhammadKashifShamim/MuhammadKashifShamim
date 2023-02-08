@@ -10,7 +10,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadKashifShamim&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Kashif Shamim's GitHub Stats" />
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifShamim&theme=tokyonight&layout=compact&langs_count=8&hide=javascript,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifShamim&theme=tokyonight&layout=compact&hide=javascript,html,css,sass,handlebars" />
 
 ## Blog posts:
 <!-- BLOG-POST-LIST:START -->
