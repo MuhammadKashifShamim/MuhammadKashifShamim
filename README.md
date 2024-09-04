@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhammad Kashif Shamim
- A passionate software engineer with a knack for trying out things in a lot of different paradigms. Started out as a Hybrid Mobile Developer using Phonegap and Ionic, slowly moved towards native iOS, Android and later on React Native. Over the last 3 years i moved towards being a Full Stack Engineer with focus on MERN & PERN Stack.  Currently working as a Solutions Architect with distributed systems on either Microservices or serverless architecture.
+ A passionate software engineer with a knack for trying out things in a lot of different paradigms. Started out as a Hybrid Mobile Developer using Phonegap and Ionic, slowly moved towards native iOS, Android and later on to React Native. Over the last 5 years i moved towards being a Full Stack Engineer with focus on MERN & PERN Stack.  Currently working as a Solutions Architect with distributed systems on either Microservices or serverless architecture.
  <br>
- * Currently learning Next.js, Prisma and Tailwind.
+ * Currently learning Golang.
  * Recently got introduced to Neovim and currently trying to improve my workflow by building a personal development environment and using Lua to tinker with it.
  * Like building or modding mechanical keyboards. 
 <br>
